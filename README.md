@@ -1,4 +1,6 @@
-# 🐱 Cat Facts & 🐶 Dog Images
+# API
+
+🐱 Cat Facts & 🐶 Dog Images
 
 A fun web application that fetches random cat facts and dog images using public APIs.
 Built with HTML, CSS, and JavaScript (Axios), and deployed on Vercel 🚀
