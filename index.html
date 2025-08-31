@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun with Cats & Dogs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>🐱 Cat Facts & 🐶 Dog Images</h1>
+
+        <!-- Cat Facts Section -->
+        <div class="card">
+            <h2>Random Cat Fact</h2>
+            <button id="fact">Show New Fact</button>
+            <p id="result">Click the button to get a fact!</p>
+        </div>
+
+        <!-- Dog Images Section -->
+        <div class="card">
+            <h2>Random Dog Image</h2>
+            <button id="show">Show New Image</button>
+            <div class="img-container">
+                <img id="image" alt="dog">
+            </div>
+        </div>
+    </div>
+
+    <!-- Axios + GSAP + Script -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
