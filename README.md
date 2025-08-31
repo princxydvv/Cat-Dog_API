@@ -17,8 +17,8 @@ Built with HTML, CSS, and JavaScript (Axios), and deployed on Vercel 🚀
 
 🖼️ Demo
 
-🎥 Preview Video: (attach your video link here)
-🌐 Live Demo: Your Vercel Deployment Link
+
+🌐 Live Demo: (https://cat-dog-api-ten.vercel.app/)
 
 🛠️ Tech Stack
 
